@@ -166,4 +166,4 @@ conclusion = (
 pdf.chapter_body(conclusion)
 
 # Guardar el archivo PDF
-pdf.output('/Users/zerocool/Documents/Implementacion_Sistema_Recomendacion_Explicacion.pdf')
+pdf.output('Implementacion_Sistema_Recomendacion_Explicacion.pdf')
