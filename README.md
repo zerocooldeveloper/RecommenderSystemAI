@@ -38,7 +38,8 @@ instalaciones de Python en tu sistema.
 
 1. Crea el entorno virtual:       bash
 
-```python -m venv venv
+```bash
+python -m venv venv
 ```
 
 2. Activa el entorno virtual:       bash
